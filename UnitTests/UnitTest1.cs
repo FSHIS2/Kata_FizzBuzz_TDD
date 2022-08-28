@@ -14,8 +14,14 @@ public class UnitTest1
     }
 
     [TestMethod]
-    public void ShouldReturnBuZZ_WhenNumberIsMultipleOf_5()
+    public void ShouldReturnBuzz_WhenNumberIsMultipleOf_5()
     {
         Assert.AreEqual("Buzz", execute.FizzBuzz(5));
+    }
+
+    [TestMethod]
+    public void ShouldReturnFizzBuzz_WhenNumberIsMultipleOf_3_And_5()
+    {
+        Assert.AreEqual("FizzBuzz", execute.FizzBuzz(15));
     }
 }
