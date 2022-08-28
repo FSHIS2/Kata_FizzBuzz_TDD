@@ -12,4 +12,10 @@ public class UnitTest1
     {
         Assert.AreEqual("Fizz", execute.FizzBuzz(3));
     }
+
+    [TestMethod]
+    public void ShouldReturnBuZZ_WhenNumberIsMultipleOf_5()
+    {
+        Assert.AreEqual("Buzz", execute.FizzBuzz(5));
+    }
 }

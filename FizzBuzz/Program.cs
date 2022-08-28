@@ -13,6 +13,14 @@ public class Program
         {
             return "Fizz";
         }
+
+        if (number % 5 == 0)
+        {
+            return "Buzz";
+        }
+        {
+            
+        }
         return "It is not a multiple of 3 or 5";
     }
 }
