@@ -1,0 +1,21 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=69d601e5_002Dfa34_002D44cd_002Da8c0_002D23688deaa0b9/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnFizz_WhenNumberIsMultipleOf_3 #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::6FE46AC4-2965-4407-9F4B-EE2F9952A5D8::net6.0::UnitTests.UnitTest1.ShouldReturnFizz_WhenNumberIsMultipleOf_3&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=8d75c9b6_002D6d4d_002D43ab_002D9ed0_002D7045054e9031/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnFizz_WhenNumberIsMultipleOf_3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::6FE46AC4-2965-4407-9F4B-EE2F9952A5D8::net6.0::UnitTests.UnitTest1.ShouldReturnFizz_WhenNumberIsMultipleOf_3&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=c8300f25_002D6e26_002D47b9_002D8f51_002D92f3313b589d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTest1" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::6FE46AC4-2965-4407-9F4B-EE2F9952A5D8::net6.0::UnitTests.UnitTest1&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=d7b703d6_002D29c6_002D4e1e_002D9e18_002D11e43f2333e1/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="ShouldReturnFizz_WhenNumberIsMultipleOf_3 #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::6FE46AC4-2965-4407-9F4B-EE2F9952A5D8::net6.0::UnitTests.UnitTest1.ShouldReturnFizz_WhenNumberIsMultipleOf_3&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
