@@ -24,4 +24,10 @@ public class UnitTest1
     {
         Assert.AreEqual("FizzBuzz", execute.FizzBuzz(15));
     }
+
+    [TestMethod]
+    public void ShouldReturnNothing_WhenNumberIsNotMultipleOf_3_And_5()
+    {
+        Assert.AreEqual("", execute.FizzBuzz(1));
+    }
 }

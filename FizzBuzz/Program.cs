@@ -23,7 +23,7 @@ public class Program
         {
             return "Buzz";
         }
-        return "It is not a multiple of 3 or 5";
+        return "";
     }
 }
 
